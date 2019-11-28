@@ -1,4 +1,4 @@
-module github.com/goinvest/iexcloud/v2
+module github.com/soluwalana/iexcloud/v3
 
 require (
 	github.com/BurntSushi/toml v0.3.1
